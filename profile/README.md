@@ -4,4 +4,4 @@ TRAIN (TRustless Atomic INtents) Protocol is a trustless and permissionless brid
 - [Solver](https://github.com/trainProtocol/solver) -  A comprehensive solver agent supporting a wide range of networks (EVMs, Starknet, Fuel, Solana).
 - [dApp](https://github.com/trainProtocol/app) - The bridging UI dApp, allowing users to complete cross-chain trustless swaps.
 
-We have completed multiple security audits conducted by top experts in the industry. The reports are available [here](https://github.com/trainProtocol/audits)
+We have completed multiple security audits conducted by top experts in the industry. The reports are available [here](https://github.com/trainProtocol/audits).
